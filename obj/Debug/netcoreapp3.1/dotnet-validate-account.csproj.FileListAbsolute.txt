@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-validate-account\bin\Debug\netcoreapp3.1\dotnet-validate-account.exe
+D:\CodeGym\Practice\dotnet-validate-account\bin\Debug\netcoreapp3.1\dotnet-validate-account.deps.json
+D:\CodeGym\Practice\dotnet-validate-account\bin\Debug\netcoreapp3.1\dotnet-validate-account.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-validate-account\bin\Debug\netcoreapp3.1\dotnet-validate-account.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-validate-account\bin\Debug\netcoreapp3.1\dotnet-validate-account.dll
+D:\CodeGym\Practice\dotnet-validate-account\bin\Debug\netcoreapp3.1\dotnet-validate-account.pdb
+D:\CodeGym\Practice\dotnet-validate-account\obj\Debug\netcoreapp3.1\dotnet-validate-account.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-validate-account\obj\Debug\netcoreapp3.1\dotnet-validate-account.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-validate-account\obj\Debug\netcoreapp3.1\dotnet-validate-account.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-validate-account\obj\Debug\netcoreapp3.1\dotnet-validate-account.dll
+D:\CodeGym\Practice\dotnet-validate-account\obj\Debug\netcoreapp3.1\dotnet-validate-account.pdb

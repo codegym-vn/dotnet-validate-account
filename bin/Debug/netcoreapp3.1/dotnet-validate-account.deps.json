@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet-validate-account/1.0.0": {
+        "runtime": {
+          "dotnet-validate-account.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-validate-account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
